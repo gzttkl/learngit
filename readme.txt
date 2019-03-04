@@ -6,3 +6,5 @@ Add New Branch.
 Add new Content.
 continue...1234566
 778899
+
+我是目录D:/study/git/learngit中的内容
